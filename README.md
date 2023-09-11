@@ -26,7 +26,7 @@ You will need a GitHub profile and a computer with Git and your preferred coding
 
 ## Tasks
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine. - Check
 2. Use `git status
 3. What does `git log` look like?
 4. Create a new branch for a feature.
